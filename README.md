@@ -31,6 +31,6 @@
 
 ## Demo
 
-[Watch Demo on YouTube]([https://www.youtube.com/watch?v=H25oqp1R3c0](https://youtu.be/uMQ0fOueohs)https://youtu.be/uMQ0fOueohs)
+[Watch Demo on YouTube](https://youtu.be/uMQ0fOueohs)
 
 
